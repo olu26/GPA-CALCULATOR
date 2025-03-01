@@ -33,9 +33,6 @@ Want to make our GPA Calculator even better? 🤔
 - **Pull Requests**: Feel free to submit improvements or new features 📈.
 - **Issues**: Report any bugs or suggestions 🐞.
 
-## 📝 License
-
-This project is licensed under the MIT License 📜.
 
 ## 👏 Thanks
 
